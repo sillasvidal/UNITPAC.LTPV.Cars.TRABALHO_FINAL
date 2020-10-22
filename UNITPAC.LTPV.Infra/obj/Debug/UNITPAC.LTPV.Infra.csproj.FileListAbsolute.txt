@@ -1,0 +1,9 @@
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\UNITPAC.LTPV.Infra.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\UNITPAC.LTPV.Infra.pdb
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\UNITPAC.LTPV.DominioCars.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\UNITPAC.LTPV.DominioCars.pdb
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITPAC.LTPV.Infra.csprojAssemblyReference.cache
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITPAC.LTPV.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITPAC.LTPV.Infra.csproj.CopyComplete
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITPAC.LTPV.Infra.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITPAC.LTPV.Infra.pdb
