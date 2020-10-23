@@ -54,14 +54,14 @@ namespace UNITPAC.LTPV.Infra.Repositories
                 Ano = 2020,
                 Km = 0,
                 Preco = 1500000
-            });
+            });            
         }
 
         public void cadastrarCarro(string modelo, string marca, int ano, double km, double preco)
         {
             _carros.Add(new Carro()
             {
-                ID = 4,
+                ID = 5,
                 Modelo = modelo,
                 Marca = marca,
                 Ano = ano,
