@@ -23,3 +23,15 @@ C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\SimpleInjector.xml
 C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\obj\Debug\UNITPAC.LTPV.Cars.csproj.CopyComplete
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\EntityFramework.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\UNITPAC.LTPV.Infra.dll.config
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\EntityFramework.xml
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\UNITPAC.LTPV.Aplicacao.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\FluentValidation.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\UNITPAC.LTPV.Aplicacao.pdb
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\bin\Debug\FluentValidation.xml
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\obj\Debug\UNITPAC.LTPV.Cars.Pages.FrmAtualizaCarros.resources

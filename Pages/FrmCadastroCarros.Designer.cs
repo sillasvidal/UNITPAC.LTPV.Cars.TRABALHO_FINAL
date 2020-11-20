@@ -40,6 +40,7 @@
             this.TxbPreco = new System.Windows.Forms.TextBox();
             this.LbPreco = new System.Windows.Forms.Label();
             this.BtnCadastrar = new System.Windows.Forms.Button();
+            this.BtnSair = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // LbTitle
@@ -67,6 +68,7 @@
             // 
             this.TxbModelo.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxbModelo.Location = new System.Drawing.Point(117, 133);
+            this.TxbModelo.MaxLength = 150;
             this.TxbModelo.Name = "TxbModelo";
             this.TxbModelo.Size = new System.Drawing.Size(263, 29);
             this.TxbModelo.TabIndex = 2;
@@ -75,6 +77,7 @@
             // 
             this.TxbMarca.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxbMarca.Location = new System.Drawing.Point(117, 188);
+            this.TxbMarca.MaxLength = 150;
             this.TxbMarca.Name = "TxbMarca";
             this.TxbMarca.Size = new System.Drawing.Size(263, 29);
             this.TxbMarca.TabIndex = 4;
@@ -154,11 +157,22 @@
             this.BtnCadastrar.UseVisualStyleBackColor = true;
             this.BtnCadastrar.Click += new System.EventHandler(this.BtnCadastrar_Click);
             // 
+            // BtnSair
+            // 
+            this.BtnSair.Location = new System.Drawing.Point(388, 497);
+            this.BtnSair.Name = "BtnSair";
+            this.BtnSair.Size = new System.Drawing.Size(75, 23);
+            this.BtnSair.TabIndex = 12;
+            this.BtnSair.Text = "Sair";
+            this.BtnSair.UseVisualStyleBackColor = true;
+            this.BtnSair.Click += new System.EventHandler(this.BtnSair_Click);
+            // 
             // FrmCadastroCarros
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(475, 557);
+            this.Controls.Add(this.BtnSair);
             this.Controls.Add(this.BtnCadastrar);
             this.Controls.Add(this.TxbPreco);
             this.Controls.Add(this.LbPreco);
@@ -193,5 +207,6 @@
         private System.Windows.Forms.TextBox TxbPreco;
         private System.Windows.Forms.Label LbPreco;
         private System.Windows.Forms.Button BtnCadastrar;
+        private System.Windows.Forms.Button BtnSair;
     }
 }

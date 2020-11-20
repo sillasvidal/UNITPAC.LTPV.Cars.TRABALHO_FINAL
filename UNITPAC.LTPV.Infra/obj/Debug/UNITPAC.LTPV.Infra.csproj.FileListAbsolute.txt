@@ -7,3 +7,12 @@ C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITP
 C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITPAC.LTPV.Infra.csproj.CopyComplete
 C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITPAC.LTPV.Infra.dll
 C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITPAC.LTPV.Infra.pdb
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\UNITPAC.LTPV.Infra.dll.config
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITPAC.LTPV.Infra.Migrations.Inicial.resources
+C:\Users\Silas\source\repos\UNITPAC.LTPV.Cars\UNITPAC.LTPV.Infra\obj\Debug\UNITPAC.LTPV.Infra.csproj.GenerateResource.cache
